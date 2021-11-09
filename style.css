@@ -12,6 +12,7 @@ body{
 }
 ul{
     list-style: none;
+    margin-left:0;
 }
 li{
 
